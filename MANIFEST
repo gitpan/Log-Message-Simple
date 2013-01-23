@@ -6,4 +6,5 @@ README
 t/01_use.t
 t/02_imports.t
 t/03_functions.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
